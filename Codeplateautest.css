@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+}
+
+/* Question 1 */
+
+#Top{
+    background-color: antiquewhite;
+    padding: 100px ;
+    margin: 0px;
+}
+#Nav{
+    position: relative;
+    flex-wrap: wrap;
+    display: flex;
+        justify-content:right;
+    list-style: none;
+    gap: 50px;
+    text-decoration:none;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    
+}
+
+/* Question 3 */
+#First{
+    font-family: 'Victor Mono', monospace;
+    font-size: 50px;
+}
+p{
+    font-size: 30px;
+    color: blue;
+    text-align: justify;
+}
+#list{
+ background-image: url(./background.png);
+padding: 50px 30px;
+margin: 0px;
+}
